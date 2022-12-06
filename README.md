@@ -1,6 +1,5 @@
 Java
 
-Feladat
 A feladat egy repülőtér leegyszerűsített működése, ahol indulásra készülő utasszállító gépek pilótái és a légiirányítás kommunikál egymással. Ebben a Pilot osztály írja le a pilóták viselkedését, a Delivery az útvonalengedélyeket, a Tower pedig a felszállási engedélyeket kiadó légiirányítókat írja le, míg az Airport osztály a program fő osztálya, az egész szimuláció vezérléséért felelős. Ezen kívül van egy segédosztály Constants néven, amely a program működéséhez szükséges konstansokat tartalmazza, valamint a Clearance osztály az útvonalengedély adatait írja le. Ez utóbbiakat nem kell módosítani.
 
 A feladat három, egymásra épülő lépésből áll, a TODO után zárójelben álló szám azt a lépést jelöli, amelyben azt meg kell valósítani. A programkód kitöltendő váza innen tölthető leLinkek egy külső oldalra.
